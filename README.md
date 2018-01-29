@@ -6,9 +6,6 @@
 * written in Python
 * input (isocurves matrices, positions, igraph description of connectivity)
 * output brain 3D glassplot
-
-![Alt Text](/home/yurier/Desktop/UFRGS/notebook/brain_network_RAT.gif)
-
 * plot edges (directed(und), colored, alpha, arrowhead control)
 * requires to add manually the brain regions using a template
 * requires high throughput video acceleration hardware
